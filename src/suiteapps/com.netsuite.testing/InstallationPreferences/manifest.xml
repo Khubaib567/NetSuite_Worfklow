@@ -1,7 +1,0 @@
-<manifest projecttype="SUITEAPP">
-  <publisherid>com.netsuite</publisherid>
-  <projectid>testing</projectid>
-  <projectname>com.netsuite</projectname>
-  <projectversion>1.0.0</projectversion>
-  <frameworkversion>1.0</frameworkversion>
-</manifest>
